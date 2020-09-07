@@ -1,0 +1,2 @@
+rootProject.name='recycle_ex2'
+include ':app'
